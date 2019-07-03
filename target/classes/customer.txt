@@ -1,0 +1,8 @@
+{ "_id" : "Customer1","taskMinSeconds" : 5,"taskMaxSeconds" : 15}
+{ "_id" : "Customer2","taskMinSeconds" : 1,"taskMaxSeconds" : 10}
+{ "_id" : "Customer3","taskMinSeconds" : 25,"taskMaxSeconds" : 30}
+{ "_id" : "Customer4","taskMinSeconds" : 5,"taskMaxSeconds" : 20}
+{ "_id" : "Customer5","taskMinSeconds" : 10,"taskMaxSeconds" : 15}
+{ "_id" : "Customer6","taskMinSeconds" : 14,"taskMaxSeconds" : 30}
+{ "_id" : "Customer7","taskMinSeconds" : 8,"taskMaxSeconds" : 18}
+{ "_id" : "Customer8","taskMinSeconds" : 20,"taskMaxSeconds" : 40}
